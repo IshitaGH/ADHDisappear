@@ -1,4 +1,4 @@
-# adhd-study
+# ADHDisappear
 Concept Map: 
 https://gitmind.com/app/docs/mw4bn0sq
 
